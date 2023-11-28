@@ -1,0 +1,9 @@
+Q1.What is SEO and explain the importance of SEO?
+
+Ans. SEO, or Search Engine Optimization, is the practice of optimizing websites to improve their visibility and ranking on search engine results pages (SERPs). The goal is to attract more organic (non-paid) traffic by making the website more relevant and attractive to search engines.
+
+
+The importance of SEO lies in its impact on online visibility. When your website ranks higher on search engines, it's more likely to be seen by users searching for relevant information, products, or services. This increased visibility can lead to more traffic, higher credibility, and potentially more conversions.
+
+
+In essence, SEO helps businesses and individuals ensure that their online content is easily discoverable by their target audience, ultimately contributing to the overall success of their online presence.

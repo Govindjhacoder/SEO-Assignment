@@ -1,0 +1,4 @@
+Q5. Define Favicon and give illustrative example?
+
+
+Ans. A favicon is a small icon associated with a website, typically displayed in the browser's address bar or next to the site's name in a bookmark list. It helps users identify and locate a specific website quickly. For example, the small "G" icon for Google is a favicon.
